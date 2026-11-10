@@ -27,21 +27,20 @@ Good Health Physicians' members visit the ER at a rate of 525 visits per 1,000 m
 
 | | Option 1 | Option 2 | Option 3 |
 |---|---|---|---|
-| Net savings | $[UPDATE] | $[UPDATE] | $[UPDATE] |
-| Year 3 ER rate (per 1,000) | [UPDATE] | [UPDATE] | [UPDATE] |
+| Gross savings | $1,401,750 | $623,700 | $1,401,750 |
+| Total cost | $321,986 | $440,500 | $172,609 |
+| **Net savings** | **$1,079,764** | **$183,200** | **$1,229,141** |
+| Year 3 ER rate (per 1,000) | 446.3 | 493.5 | 446.3 |
 | Meets 450 target? | Yes | No | Yes |
 
 ## Recommendation
-**Option 3, the triage nurse line.** It meets the target at the lowest total cost, and it has the highest net savings of the three options. Option 2 does not reach the 450 target, because only 40% of members can reach the center. Option 1 meets the target but costs more, mainly because of the practitioner's salary.
+**Option 3, the triage nurse line.** It meets the 450-visit target, has the lowest total cost of the three options, and has the highest net savings. Option 2 does not reach the target, because only 40% of members can reach the urgent care center. Option 1 also meets the target, but it costs almost twice as much as Option 3, mainly because of the practitioner's salary.
 
 ## Assumptions and limitations
-- Reductions in Years 1 and 2 are applied to baseline ER visits. The reduction in Year 3 is assumed to be 0%, meaning the program's effect holds but does not grow.
+- The ER reductions in Years 1 and 2 are applied to the baseline ER visits. The reduction in Year 3 is assumed to be 0%, meaning the program's effect holds but does not grow.
 - Savings depend on a fixed $1,200 ER cost and fixed replacement-care costs. Real costs would vary.
-- The model does not include the cost of members who ignore triage advice or the quality-of-care impact of each option.
+- The model does not include the cost of members who ignore triage advice, or the quality-of-care impact of each option.
 - Results are sensitive to the ER reduction percentages, which are assumptions from the case and not measured outcomes.
 
 ## What I did
-[UPDATE: Write 2-3 lines in your own words. For example: "I built the Excel model, including the linked Core, Option and Summary sheets, and wrote the recommendation. Individual assignment / Group of X." Say plainly what was yours.]
-
-## Revision note
-Revised after instructor feedback to correct savings calculations and improve formatting.
+I built the Excel model (linked Core, Option and Summary sheets), compared the three options against the 450-visit target, and
